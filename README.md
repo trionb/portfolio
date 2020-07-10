@@ -1,4 +1,3 @@
-# trionb.github.io
 
 ## About
 -This a my portfolio using React.
