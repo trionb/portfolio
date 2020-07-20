@@ -20,10 +20,11 @@ function Footer () {
                           className="fab fa-linkedin" className="btn btn-outline-dark1">
                             LinkedIn</i>
                        </a>
-                        <a href="download/Resume2020.pdf" 
+                        <a href="download/Trion Bailey_ Resume 2020 (original).pdf" 
                             className="btn btn-outline-dark1" 
                              target="_blank" type="submit"
-                            download="resume2020.pdf">
+                            download="Trion Bailey_ Resume 2020 (original).pdf">
+        
                             Resume
                         </a>
             </div>
